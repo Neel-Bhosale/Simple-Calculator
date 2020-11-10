@@ -1,2 +1,2 @@
 # Simple Calculator
- Simple Calculator in python languge with 6 operations in it.
+ Simple Calculator in python language with 6 operations in it.
